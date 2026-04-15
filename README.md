@@ -79,14 +79,12 @@ Tableau	Dashboard development & visualization
 SQL	Data analysis & querying
 Microsoft Excel	Data cleaning & preprocessing
 📁 Repository Structure
-
 Sales-Customer-Dashboard-Tableau/
 │
 ├── Sales-Customer-Dashboard-Tableau.twbx
 ├── Sales Dashboard.png
 ├── Customer Dashboard.png
 └── README.md
-
 ⚙️ Key Skills Demonstrated
 Data Analysis
 Data Visualization
