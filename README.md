@@ -1,112 +1,56 @@
-📊 Sales & Customer Performance Dashboard | Tableau 2022
-
-An interactive, dual-dashboard Tableau project analyzing Sales and Customer performance (2022 vs. 2021) using the Sample Superstore dataset.
-
-🚀 Project Overview
-
-This project delivers a business intelligence solution through two interlinked dashboards:
-
-Sales Dashboard — Tracks revenue, profit, and product-level performance
-Customer Dashboard — Analyzes customer growth, behavior, and contribution
-
-The goal is to transform raw data into actionable insights for better decision-making.
-
-🎯 Business Objective
-
-To evaluate:
-
-Sales and profit trends
-Product-level profitability
-Customer growth and engagement
-
-and identify key growth drivers and loss-making areas.
-
-🧠 Executive Summary (Key Insight)
-
-Sales increased by 29.47%, and profit grew by 32.74% year-over-year.
-However, profitability is negatively impacted by specific subcategories like Tables despite high sales volume.
-Customer growth is steady, with a small group of customers contributing significantly to total revenue.
+📊 Sales & Customer Dashboard | Tableau 2022
+An interactive, dual-dashboard Tableau project analyzing Sales and Customer performance for 2022 vs. 2021, built using the Sample Superstore dataset.
 
 🔗 Live Dashboard
-
-👉 View Interactive Dashboard
+👉 View on Tableau Public
 
 📸 Dashboard Previews
-📊 Sales Dashboard
+Sales Dashboard
+Sales Dashboard
 
-![Sales Dashboard](Sales Dashboard.png)
+Customer Dashboard
+Customer Dashboard
 
-👥 Customer Dashboard
+📌 Project Overview
+This project consists of two interlinked dashboards that provide a comprehensive view of business performance:
 
-![Customer Dashboard](Customer Dashboard.png)
-
-📊 Sales Dashboard
+Sales Dashboard — tracks Total Sales, Total Profit, and Total Quantity with year-over-year comparisons
+Customer Dashboard — tracks Total Customers, Total Orders, and Sales Per Customer with detailed customer-level insights
 ✨ Key Features
 📅 Year-over-Year Comparison — 2022 vs. 2021 with % change indicators
-📈 Sparkline KPI Cards — Monthly trends with highest & lowest markers
-📦 Sales & Profit by Subcategory — Identifies profit/loss areas
-📉 Sales & Profit Trends Over Time — Weekly performance tracking
-🟢🔴 Profit/Loss Indicators — Clear visual distinction for performance
-🔑 Insights
-Total Sales: ₹1M (+29.47% YoY)
-Total Profit: ₹81.8K (+32.74% YoY)
-Total Quantity: 10K (+23.29% YoY)
-Tables subcategory shows high sales but negative profit
-Profitability varies significantly across product categories
-Sales peaks observed in later months (seasonal trend)
-👥 Customer Dashboard
-✨ Key Features
-👤 Customer Growth Tracking — Total customers and YoY change
-🧾 Order Volume Analysis — Total orders and growth trends
-📊 Sales per Customer KPI — Revenue efficiency metric
-🏆 Top 10 Customers by Profit — High-value customer identification
-📊 Customer Distribution Histogram — Order frequency behavior
-🔗 Interlinked Navigation — Seamless switching between dashboards
-🔑 Insights
-Total Customers: 638 (+11.34% YoY)
-Total Orders: 1K (+26.69% YoY)
-Sales per Customer: ₹954.87 (+16.28% YoY)
-Majority of customers place 4–8 orders
-Top customers contribute a significant portion of total revenue
-💡 Business Impact
-Identifies loss-making categories for corrective action
-Supports pricing and inventory optimization decisions
-Enables customer segmentation and retention strategies
-Improves business performance monitoring using KPIs
-🛠 Tools & Technologies
+📈 Sparkline KPI Cards — showing monthly trends with highest and lowest month markers
+🟢🔴 Profit/Loss Visualization — green/red color coding for above/below average performance
+🏆 Top 10 Customers by Profit — ranked table with sales, profit, and order details
+📊 Customer Distribution Histogram — showing order frequency distribution across customers
+📦 Sales & Profit by Subcategory — dual bar chart comparing CY vs PY sales and profit/loss
+📉 Sales & Profit Trends Over Time — weekly trend analysis with average reference lines
+🔗 Interlinked Navigation — seamless switching between Sales and Customer dashboards
+💡 Key Insights
+Total Sales grew by 29.47% in 2022 vs. 2021
+Total Profit increased by 32.74% year-over-year
+Total Quantity sold grew by 23.29%
+Customer base expanded by 11.34% reaching 638 customers
+Total Orders increased by 26.69% to 1K orders
+Copiers was the most profitable subcategory in 2022
+Tables showed a loss in profit despite high sales volume
+🛠 Tools & Skills Used
 Tool	Usage
-Tableau	Dashboard development & visualization
-SQL	Data analysis & querying
-Microsoft Excel	Data cleaning & preprocessing
+Tableau Desktop	Dashboard design & development
+Sample Superstore	Dataset
+Calculated Fields	YoY %, KPI metrics, Profit indicators
+Parameters	Dynamic year selection (CY/PY)
+Actions & Filters	Dashboard interactivity & navigation
+Container Layout	Structured dashboard design
 📁 Repository Structure
 Sales-Customer-Dashboard-Tableau/
 │
-├── Sales-Customer-Dashboard-Tableau.twbx
-├── Sales Dashboard.png
-├── Customer Dashboard.png
-└── README.md
-⚙️ Key Skills Demonstrated
-Data Analysis
-Data Visualization
-Business Intelligence
-Exploratory Data Analysis (EDA)
-KPI Design & Tracking
-Dashboard Development
-Analytical Thinking
-📌 Project Outcome
-
-This project demonstrates the ability to:
-
-Convert raw data into actionable business insights
-Build interactive dashboards for decision-making
-Apply analytical and business thinking to real-world data
+├── Sales-Customer-Dashboard-Tableau.twbx   # Tableau packaged workbook
+├── Sales Dashboard.png                      # Sales Dashboard screenshot
+├── Customer Dashboard.png                   # Customer Dashboard screenshot
+└── README.md                                # Project documentation
 👤 Author
-
 Ajay Bingishetty
 
-GitHub: https://github.com/ajayA2002
-Tableau: https://public.tableau.com/app/profile/ajay.bingishetty/vizzes
-LinkedIn: https://linkedin.com/in/bingishetty-ajay
-⭐ If you found this useful
-
-Consider giving this repository a star ⭐
+GitHub: @ajayA2002
+📊 Tableau Public Profile
+⭐ If you found this project helpful, please give it a star!
