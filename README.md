@@ -32,7 +32,7 @@ and identify **key growth drivers and loss-making areas**.
 ---
 
 ## 🔗 Live Dashboard
-👉 https://public.tableau.com/app/profile/ajay.bingishetty/viz/SalesDashboard_17758102951790/CustomerDashboard  
+👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/ajay.bingishetty/viz/SalesDashboard_17758102951790/CustomerDashboard)
 
 ---
 
@@ -103,6 +103,7 @@ and identify **key growth drivers and loss-making areas**.
 ---
 
 ## 📁 Repository Structure
+
 
 Sales-Customer-Dashboard-Tableau/
 │
